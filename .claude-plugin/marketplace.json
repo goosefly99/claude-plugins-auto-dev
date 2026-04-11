@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "dev-automation",
+      "name": "dev-automation-auto-dev",
       "description": "Project design, documentation scaffolding, and autonomous scheduled development tasks.",
       "source": {
         "source": "url",
@@ -18,7 +18,7 @@
       "homepage": "https://github.com/goosefly99/dev-automation-claude-plugin"
     },
     {
-      "name": "youtube-mcp",
+      "name": "youtube-mcp-auto-dev",
       "description": "MCP server for YouTube search, transcripts, and video analysis",
       "source": {
         "source": "url",
@@ -29,7 +29,7 @@
       "homepage": "https://github.com/goosefly99/youtube-mcp-claude-plugin"
     },
     {
-      "name": "x-api-mcp",
+      "name": "x-api-mcp-auto-dev",
       "description": "X (Twitter) API MCP server - authenticated crawler, client, and query tools",
       "source": {
         "source": "url",
@@ -40,7 +40,7 @@
       "homepage": "https://github.com/goosefly99/x-api-mcp-claude-plugin"
     },
     {
-      "name": "synth-mcp",
+      "name": "synth-mcp-auto-dev",
       "description": "Research synthesis MCP server - load research collections, query items, and generate structured design specs",
       "source": {
         "source": "url",
@@ -51,7 +51,7 @@
       "homepage": "https://github.com/goosefly99/synth-mcp-claude-plugin"
     },
     {
-      "name": "feature-request",
+      "name": "feature-request-auto-dev",
       "description": "MCP tool for agents to record feature suggestions into feature_requests.toml files",
       "source": {
         "source": "url",
@@ -62,7 +62,7 @@
       "homepage": "https://github.com/goosefly99/feature-request-claude-plugin"
     },
     {
-      "name": "concepts-collector",
+      "name": "concepts-collector-auto-dev",
       "description": "Research concepts collector MCP server - load collections, extract key concepts, and generate structured knowledge base overviews",
       "source": {
         "source": "url",
@@ -73,7 +73,7 @@
       "homepage": "https://github.com/goosefly99/concepts-collector-claude-plugin"
     },
     {
-      "name": "caveman-mode",
+      "name": "caveman-mode-auto-dev",
       "description": "Terse-response skill that drops filler, articles, and pleasantries while preserving correctness. Distilled from the viral caveman prompt and Guzik's benchmark.",
       "source": {
         "source": "url",
@@ -84,7 +84,7 @@
       "homepage": "https://github.com/goosefly99/caveman-mode-claude-plugin"
     },
     {
-      "name": "pipeline-orchestrator",
+      "name": "pipeline-orchestrator-auto-dev",
       "description": "Pipeline orchestrator MCP server - reads pipeline.toml, resolves DAG, validates artifacts, manages run state, and coordinates research/debate/synth phases",
       "source": {
         "source": "url",
