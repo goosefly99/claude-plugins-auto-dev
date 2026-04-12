@@ -93,6 +93,17 @@
       },
       "version": "0.3.0",
       "homepage": "https://github.com/goosefly99/pipeline-orchestrator-claude-plugin"
+    },
+    {
+      "name": "agent-knowledgebase-auto-dev",
+      "description": "Personal knowledgebase plugin — ingest sources, build wiki artifacts, query with vector search",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/agent-knowledgebase-claude-plugin.git",
+        "ref": "auto_dev"
+      },
+      "version": "0.1.0",
+      "homepage": "https://github.com/goosefly99/agent-knowledgebase-claude-plugin"
     }
   ]
 }

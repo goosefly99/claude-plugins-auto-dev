@@ -14,6 +14,7 @@ Auto-dev branch marketplace for [goosefly99](https://github.com/goosefly99) Clau
 /plugin install concepts-collector-auto-dev@goosefly99-plugins-auto-dev
 /plugin install caveman-mode-auto-dev@goosefly99-plugins-auto-dev
 /plugin install pipeline-orchestrator-auto-dev@goosefly99-plugins-auto-dev
+/plugin install agent-knowledgebase-auto-dev@goosefly99-plugins-auto-dev
 ```
 
 ## Plugins
@@ -28,3 +29,4 @@ Auto-dev branch marketplace for [goosefly99](https://github.com/goosefly99) Clau
 | `concepts-collector-auto-dev` | Load collections, extract key concepts, generate knowledge base overviews | [concepts-collector-claude-plugin](https://github.com/goosefly99/concepts-collector-claude-plugin/tree/auto_dev) |
 | `caveman-mode-auto-dev` | Terse-response skill distilled from the viral caveman prompt | [caveman-mode-claude-plugin](https://github.com/goosefly99/caveman-mode-claude-plugin/tree/auto_dev) |
 | `pipeline-orchestrator-auto-dev` | Reads pipeline.toml, resolves DAG, manages run state, coordinates research/debate/synth phases | [pipeline-orchestrator-claude-plugin](https://github.com/goosefly99/pipeline-orchestrator-claude-plugin/tree/auto_dev) |
+| `agent-knowledgebase-auto-dev` | Ingest sources, build wiki artifacts, query with vector search | [agent-knowledgebase-claude-plugin](https://github.com/goosefly99/agent-knowledgebase-claude-plugin/tree/auto_dev) |
