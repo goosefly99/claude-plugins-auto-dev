@@ -104,6 +104,17 @@
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/agent-knowledgebase-claude-plugin"
+    },
+    {
+      "name": "crawler-mcp-auto-dev",
+      "description": "MCP server exposing web crawling capabilities via crawl4ai and Playwright",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/crawler-mcp-claude-plugin.git",
+        "ref": "auto_dev"
+      },
+      "version": "0.1.0",
+      "homepage": "https://github.com/goosefly99/crawler-mcp-claude-plugin"
     }
   ]
 }
