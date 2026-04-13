@@ -115,6 +115,17 @@
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/crawler-mcp-claude-plugin"
+    },
+    {
+      "name": "claude-context-audit-auto-dev",
+      "description": "Audit your Claude Code setup for token waste and context bloat. Scans MCP servers, CLAUDE.md rules, skills, settings, and permissions, then returns a health score with specific fixes.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/claude-context-audit-claude-plugin.git",
+        "ref": "auto_dev"
+      },
+      "version": "0.1.0",
+      "homepage": "https://github.com/goosefly99/claude-context-audit-claude-plugin"
     }
   ]
 }
