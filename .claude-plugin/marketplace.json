@@ -137,6 +137,17 @@
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/data-etl-orchestrator-claude-plugin"
+    },
+    {
+      "name": "obsidian-mcp-auto-dev",
+      "description": "MCP server for Obsidian vaults: consolidated note-with-graph envelope, graph traversal, lint primitives, file-watch events, transactional batch writes, multi-vault federation, Karpathy protocol-fixtures trio read",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/obsidian-mcp-claude-plugin.git",
+        "ref": "auto_dev"
+      },
+      "version": "0.1.0",
+      "homepage": "https://github.com/goosefly99/obsidian-mcp-claude-plugin"
     }
   ]
 }
