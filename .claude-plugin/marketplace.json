@@ -127,18 +127,7 @@
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/claude-context-audit-claude-plugin"
     },
-    {
-      "name": "data-etl-orchestrator-auto-dev",
-      "description": "Deterministic ETL orchestrator skills for loading YouTube, X, crawler, and local-file data into the agent-knowledgebase. Skills-only — agents never read or write payload bytes.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/goosefly99/data-etl-orchestrator-claude-plugin.git",
-        "ref": "auto_dev"
-      },
-      "version": "0.1.0",
-      "homepage": "https://github.com/goosefly99/data-etl-orchestrator-claude-plugin"
-    },
-    {
+      {
       "name": "obsidian-mcp-auto-dev",
       "description": "MCP server for Obsidian vaults: consolidated note-with-graph envelope, graph traversal, lint primitives, file-watch events, transactional batch writes, multi-vault federation, Karpathy protocol-fixtures trio read",
       "source": {
