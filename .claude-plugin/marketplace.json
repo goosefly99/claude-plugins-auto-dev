@@ -148,6 +148,17 @@
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/agent-code-validation-claude-plugin"
+    },
+    {
+      "name": "claude-code-optimization-auto-dev",
+      "description": "Audit and optimize Claude Code: a context/token-waste auditor and a custom multi-line PowerShell statusline.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/claude-code-optimization.git",
+        "ref": "auto_dev"
+      },
+      "version": "0.1.0",
+      "homepage": "https://github.com/goosefly99/claude-code-optimization"
     }
   ]
 }
