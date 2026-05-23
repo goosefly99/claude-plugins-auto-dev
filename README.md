@@ -16,6 +16,7 @@ Auto-dev branch marketplace for [goosefly99](https://github.com/goosefly99) Clau
 /plugin install pipeline-orchestrator-auto-dev@goosefly99-plugins-auto-dev
 /plugin install agent-knowledgebase-auto-dev@goosefly99-plugins-auto-dev
 /plugin install claude-code-optimization-auto-dev@goosefly99-plugins-auto-dev
+/plugin install codex-claude-bridge-auto-dev@goosefly99-plugins-auto-dev
 ```
 
 ## Plugins
@@ -32,3 +33,4 @@ Auto-dev branch marketplace for [goosefly99](https://github.com/goosefly99) Clau
 | `pipeline-orchestrator-auto-dev` | Reads pipeline.toml, resolves DAG, manages run state, coordinates research/debate/synth phases | [pipeline-orchestrator-claude-plugin](https://github.com/goosefly99/pipeline-orchestrator-claude-plugin/tree/auto_dev) |
 | `agent-knowledgebase-auto-dev` | Ingest sources, build wiki artifacts, query with vector search | [agent-knowledgebase-claude-plugin](https://github.com/goosefly99/agent-knowledgebase-claude-plugin/tree/auto_dev) |
 | `claude-code-optimization-auto-dev` | Context/token-waste auditor + multi-line PowerShell statusline | [claude-code-optimization](https://github.com/goosefly99/claude-code-optimization/tree/auto_dev) |
+| `codex-claude-bridge-auto-dev` | OpenAI Codex adversarial reviewer + execution-rescue tool inside Claude Code (5 slash commands, 7-attack-surface taxonomy, browser OAuth) | [codex-claude-bridge-claude-plugin](https://github.com/goosefly99/codex-claude-bridge-claude-plugin/tree/auto_dev) |

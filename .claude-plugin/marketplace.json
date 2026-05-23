@@ -148,6 +148,17 @@
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/claude-code-optimization"
+    },
+    {
+      "name": "codex-claude-bridge-auto-dev",
+      "description": "Wraps OpenAI Codex as an adversarial reviewer and execution-rescue tool inside Claude Code. Five slash commands (/codex:setup, /codex:review, /codex:adversarial-review, /codex:rescue, /codex:status) with a 7-attack-surface taxonomy and structured-JSON output for plan-mode integration. Browser OAuth — no API key required.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/codex-claude-bridge-claude-plugin.git",
+        "ref": "auto_dev"
+      },
+      "version": "0.1.0",
+      "homepage": "https://github.com/goosefly99/codex-claude-bridge-claude-plugin"
     }
   ]
 }
