@@ -128,17 +128,6 @@
       "homepage": "https://github.com/goosefly99/obsidian-mcp-claude-plugin"
     },
     {
-      "name": "agent-code-validation-auto-dev",
-      "description": "Claude Code plugin that lets agents truly validate the correctness of code they write. Sandbox MCP + skills wrapping Hypothesis/Stryker/mutmut/CrossHair/Atheris/Inspect AI + tamper-evident Auditor subagent invoked from Stop/SubagentStop hooks that re-runs declared-passing verification in a clean sandbox the primary agent could not have touched.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/goosefly99/agent-code-validation-claude-plugin.git",
-        "ref": "auto_dev"
-      },
-      "version": "0.1.0",
-      "homepage": "https://github.com/goosefly99/agent-code-validation-claude-plugin"
-    },
-    {
       "name": "claude-code-optimization-auto-dev",
       "description": "Audit and optimize Claude Code: a context/token-waste auditor and a custom multi-line PowerShell statusline.",
       "source": {
