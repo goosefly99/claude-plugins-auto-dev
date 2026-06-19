@@ -148,6 +148,17 @@
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/codex-claude-bridge-claude-plugin"
+    },
+    {
+      "name": "profile-project-auto-dev",
+      "description": "Profiles a project (codebase, docs, transcripts/notes, external refs) via a fixed DAG into agent-facing context pages, a human guide, and a local queryable vectorstore",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/profile-project-claude-plugin.git",
+        "ref": "auto_dev"
+      },
+      "version": "0.1.0",
+      "homepage": "https://github.com/goosefly99/profile-project-claude-plugin"
     }
   ]
 }
