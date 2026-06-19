@@ -14,7 +14,7 @@
         "url": "https://github.com/goosefly99/dev-automation-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "homepage": "https://github.com/goosefly99/dev-automation-claude-plugin"
     },
     {
@@ -25,7 +25,7 @@
         "url": "https://github.com/goosefly99/youtube-mcp-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "1.0.0",
+      "version": "1.0.1",
       "homepage": "https://github.com/goosefly99/youtube-mcp-claude-plugin"
     },
     {
@@ -36,7 +36,7 @@
         "url": "https://github.com/goosefly99/x-api-mcp-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.0.1",
+      "version": "0.0.2",
       "homepage": "https://github.com/goosefly99/x-api-mcp-claude-plugin"
     },
     {
@@ -47,7 +47,7 @@
         "url": "https://github.com/goosefly99/synth-mcp-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "homepage": "https://github.com/goosefly99/synth-mcp-claude-plugin"
     },
     {
@@ -58,7 +58,7 @@
         "url": "https://github.com/goosefly99/feature-request-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.2.1",
       "homepage": "https://github.com/goosefly99/feature-request-claude-plugin"
     },
     {
@@ -69,7 +69,7 @@
         "url": "https://github.com/goosefly99/concepts-collector-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "homepage": "https://github.com/goosefly99/concepts-collector-claude-plugin"
     },
     {
@@ -80,7 +80,7 @@
         "url": "https://github.com/goosefly99/caveman-mode-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "homepage": "https://github.com/goosefly99/caveman-mode-claude-plugin"
     },
     {
@@ -91,7 +91,7 @@
         "url": "https://github.com/goosefly99/pipeline-orchestrator-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.3.0",
+      "version": "0.3.1",
       "homepage": "https://github.com/goosefly99/pipeline-orchestrator-claude-plugin"
     },
     {
@@ -102,7 +102,7 @@
         "url": "https://github.com/goosefly99/agent-knowledgebase-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.13.1",
       "homepage": "https://github.com/goosefly99/agent-knowledgebase-claude-plugin"
     },
     {
@@ -113,7 +113,7 @@
         "url": "https://github.com/goosefly99/crawler-mcp-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "1.0.1",
       "homepage": "https://github.com/goosefly99/crawler-mcp-claude-plugin"
     },
     {
@@ -124,7 +124,7 @@
         "url": "https://github.com/goosefly99/obsidian-mcp-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "homepage": "https://github.com/goosefly99/obsidian-mcp-claude-plugin"
     },
     {
@@ -135,7 +135,7 @@
         "url": "https://github.com/goosefly99/claude-code-optimization.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "homepage": "https://github.com/goosefly99/claude-code-optimization"
     },
     {
@@ -146,7 +146,7 @@
         "url": "https://github.com/goosefly99/codex-claude-bridge-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "homepage": "https://github.com/goosefly99/codex-claude-bridge-claude-plugin"
     },
     {
@@ -157,7 +157,7 @@
         "url": "https://github.com/goosefly99/profile-project-claude-plugin.git",
         "ref": "auto_dev"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "homepage": "https://github.com/goosefly99/profile-project-claude-plugin"
     }
   ]
